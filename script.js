@@ -110,7 +110,20 @@ const nicknameMap = {
     "Valentine": "Vanillite",
     "Crocodile": "Cryogonal",
     "Al Dente": "Dedenne",
-    "Carnivor": "Cinderace"
+    "Carnivor": "Cinderace",
+    "Trinklet":"Tinkatink",
+    "Fennie":"Phanpy",
+    "Skonnieskonnieskoelie":"Spritzee",
+    "Zygerion":"Zacian",
+    "Kimbaktoe":"Kingambit",
+    "Basilicum":"Basculin",
+    "Diesteenhoeheetdieookalweer":"Stonjourner",
+    "Tsjabot":"Chatot",
+    "Sketijl":"Sceptile",
+    "Espeon":"Umbreon",
+    "Chlamydion":"Kecleon",
+    "Toetsoe":"Toedscool",
+    "Kill Yo":"Keldeo",
 };
 
 const similarOptions = {
@@ -225,7 +238,20 @@ const similarOptions = {
     "Valentine": ["Enamorus-Incarnate", "Venonat", "Vespiquen"],
     "Crocodile": ["Krokorok", "Croconaw", "Krookodile"],
     "Al Dente": ["Audino", "Dunsparce", "Alcremie"],
-    "Carnivor": ["Carnivine", "Camerupt", "Cacturne"]
+    "Carnivor": ["Carnivine", "Camerupt", "Cacturne"],
+    "Trinklet":["Tinkaton", "Ducklett", "Chingling"],
+    "Fennie":["Fennekin", "Finneon", "Florges"],
+    "Skonnieskonnieskoelie":["Skitty", "Scorbunny", "Skiddo"],
+    "Zygerion":["Zygarde", "Zekrom", "Hydreigon"],
+    "Kimbaktoe":["Throh", "Makuhita", "Conkeldurr"],
+    "Basilicum":["Lilligant", "Bellossom", "Bellsprout"],
+    "Diesteenhoeheetdieookalweer":["Nosepass", "Graveler", "Roggenrola"],
+    "Tsjabot":["Kabuto", "Pawniard", "Golett"],
+    "Sketijl":["Scrafty", "Grovyle", "Scyther"],
+    "Espeon":["Espeon", "Sylveon", "Glaceon"],
+    "Chlamydion":["Sigilyph", "Hydreigon", "Eelektrik"],
+    "Toetsoe":["Totodile", "Kubfu", "Mienfoo"],
+    "Kill Yo":["Bisharp", "Kommo-o", "Hakamo-o"],
 };
 
 let usedNicknames = [];
